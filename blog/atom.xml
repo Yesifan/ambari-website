@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ambari.apache.org/ambari-website/blog</id>
+    <title>Ambari Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ambari.apache.org/ambari-website/blog"/>
+    <subtitle>Ambari Blog</subtitle>
+    <icon>https://ambari.apache.org/ambari-website/img/ambari.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://ambari.apache.org/ambari-website/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sorry, there's nothing here at the moment.]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sorry-theres-nothing-here-at-the-moment">Sorry, there's nothing here at the moment.<a class="hash-link" href="#sorry-theres-nothing-here-at-the-moment" title="Direct link to heading">​</a></h2>]]></content>
+        <category label="hello" term="hello"/>
+    </entry>
+</feed>

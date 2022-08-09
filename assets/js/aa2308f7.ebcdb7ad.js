@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkambari_website=self.webpackChunkambari_website||[]).push([[667],{6847:e=>{e.exports=JSON.parse('{"permalink":"/ambari-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

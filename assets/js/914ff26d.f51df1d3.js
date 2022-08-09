@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkambari_website=self.webpackChunkambari_website||[]).push([[906],{413:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/ambari-website/blog/tags/hello","allTagsPath":"/ambari-website/blog/tags","count":1}')}}]);
